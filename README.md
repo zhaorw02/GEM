@@ -25,10 +25,10 @@
 <div align="center">
 
 <a href=''><img src='https://img.shields.io/badge/arXiv-2503.15265-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;
- <a href=''><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href='https://zhaorw02.github.io/GEM/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;
  <a><img src='https://img.shields.io/badge/License-MIT-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href=""><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Weights-HF-orange"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href=''><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Data-HF-orange"></a>
+<a href='https://huggingface.co/zzzrw/GEM-2B'><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Weights-HF-orange"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://huggingface.co/datasets/zzzrw/GEM-250K'><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Data-HF-orange"></a>
 
 </div>
 
