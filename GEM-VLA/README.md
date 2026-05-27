@@ -102,7 +102,7 @@ episode_0.hdf5
 
 ### VLM + RDT Training (from scratch)
 
-Train Qwen3-VL-2B jointly with an RDT action expert from scratch:
+Train VLM jointly with an RDT action expert from scratch:
 
 ```bash
 bash train.sh
@@ -134,7 +134,7 @@ bash train_joint.sh
 ```
 
 Additional arguments:
-- `DEPTH_PATH` — Path to pretrained depth prediction model (extracted from [GEM-2B]())
+- `DEPTH_PATH` — Path to pretrained depth prediction model (extracted from [GEM-2B](https://huggingface.co/zzzrw/GEM-2B))
 - `DEPTH_WEIGHT` — Weight for depth loss (default: 0.1)
 
 ## Inference
