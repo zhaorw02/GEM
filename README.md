@@ -73,14 +73,14 @@ pip install flash-attn --no-build-isolation
 
 ### 3. Dataset Setup
 
-Please configure the dataset paths in `qwen-vl-finetune/qwenvl/data/__init__.py`. Specifically, set `annotation_path` and `data_path` for **GEM-250K**, which can be downloaded from Hugging Face: [zzzrw/GEM-250K](https://huggingface.co/datasets/zzzrw/GEM-250K).
+Please configure the dataset paths in `qwen-vl-finetune/qwenvl/data/__init__.py`. Specifically, set `annotation_path` and `data_path` for **GEM-250K**, which can be downloaded from Hugging Face: [GEM-250K](https://huggingface.co/datasets/zzzrw/GEM-250K).
 
 You also need to update the depth image path and the depth image loading logic in `qwen-vl-finetune/qwenvl/data/utils.py` according to your local directory structure.
 
 
 ## Model Checkpoints
 
-The pretrained GEM-2B checkpoint is available on Hugging Face: 🤗 [zzzrw/GEM-2B](https://huggingface.co/zzzrw/GEM-2B/).
+The pretrained GEM-2B checkpoint is available on Hugging Face: 🤗 [GEM-2B](https://huggingface.co/zzzrw/GEM-2B/).
 
 <!-- | model name               |    type     | download                                                                                   
 | ------------------------ | :---------: | ------------------------------------------------------------------------------------------ | 
@@ -94,7 +94,7 @@ Set in `qwen-vl-finetune/train.sh`:
    - `MODEL_PATH`: path to pretrained checkpoints.
    - `OUTPUT_DIR`: where to save checkpoints.
 
-Edit `annotation_path` and `data_path` (after downloading from [zzzrw/GEM-250K](https://huggingface.co/datasets/zzzrw/GEM-250K)) in `qwen-vl-finetune/qwenvl/data/__init__.py`.
+Edit `annotation_path` and `data_path` (after downloading from [GEM-250K](https://huggingface.co/datasets/zzzrw/GEM-250K)) in `qwen-vl-finetune/qwenvl/data/__init__.py`.
 
 From the `qwen-vl-finetune/` directory:
 
