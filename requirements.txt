@@ -1,0 +1,17 @@
+transformers==4.57.3
+qwen_vl_utils
+opencv-python-headless
+deepspeed==0.17.0
+binpacking
+torchcodec==0.5
+timm==1.0.21
+gpustat
+diffusers==0.36.0
+pytorch-lightning
+omegaconf
+einx
+peft==0.17.1
+torchcodec==0.6
+torch
+torchvision
+accelerate
