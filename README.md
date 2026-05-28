@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<a href=''><img src='https://img.shields.io/badge/arXiv-2503.15265-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://arxiv.org/abs/2605.28548'><img src='https://img.shields.io/badge/arXiv-2605.28548-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;
  <a href='https://zhaorw02.github.io/GEM/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;
  <a><img src='https://img.shields.io/badge/License-MIT-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://huggingface.co/zzzrw/GEM-2B'><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Weights-HF-orange"></a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/e978726f-d2ab-46af-8513-eb0a62a94ecc
 
 ## News
 
-- **[05/28]** 🔥 We release the paper on [arXiv](https://arxiv.org/abs/)!
+- **[05/28]** 🔥 We release the paper on [arXiv](https://arxiv.org/abs/2605.28548)!
 - **[05/28]** 🔥 We release the training code and dataset samples **GEM-250K**.
 - **[05/28]** 🔥 We release the checkpoint of GEM-2B.
 
