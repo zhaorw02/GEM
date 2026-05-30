@@ -117,14 +117,11 @@ Please refer to [GEM-VLA](./GEM-VLA/README.md) for details.
 ## BibTeX
 If you find our work helpful, please consider citing:
 ```
-@misc{zhao2026gemgenerativesupervisionhelps,
-  title={GEM: Generative Supervision Helps Embodied Intelligence}, 
-  author={Ruowen Zhao and Bangguo Li and Zuyan Liu and Yinan Liang and Junliang Ye and Fangfu Liu and Diankun Wu and Zhengyi Wang and Xumin Yu and Yongming Rao and Han Hu and Jun Zhu},
-  year={2026},
-  eprint={2605.28548},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2605.28548}, 
+@article{zhao2026gem,
+  title={GEM: Generative Supervision Helps Embodied Intelligence},
+  author={Zhao, Ruowen and Li, Bangguo and Liu, Zuyan and Liang, Yinan and Ye, Junliang and Liu, Fangfu and Wu, Diankun and Wang, Zhengyi and Yu, Xumin and Rao, Yongming and others},
+  journal={arXiv preprint arXiv:2605.28548},
+  year={2026}
 }
 ```
 
